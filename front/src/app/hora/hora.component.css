@@ -1,0 +1,16 @@
+
+.reloj{
+	background: black;
+	color: #218FE8;
+	width: 160px;
+	min-height: 75px;
+	text-align: center;
+	line-height: 75px;
+	border: solid 3px;
+	border-radius: 10px;
+}
+
+.reloj span{
+	font-size: 40px;
+	font-weight: bold;
+}
